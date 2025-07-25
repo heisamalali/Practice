@@ -1,3 +1,4 @@
+# re is a built-in module to work with regular expressions
 import re
 
 inputString = input('please enter a string')
